@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Hometask L18</string>
+    <string name="button_text">Button</string>
+    <string name="start_anim_button_text">Start Anim</string>
+    <string name="stop_anim_button_text">Stop Anim</string>
+    <string name="drawble_tab_text">Drawable</string>
+    <string name="bitmap_tab_text">Bitmap</string>
+    <string name="load_image_button_text">Load Image</string>
+    <string name="panamera_image_url">https://i.ytimg.com/vi/6tCHlZKj2Oc/maxresdefault.jpg</string>
+    <string name="glide_tab_text">Glide</string>
 </resources>
